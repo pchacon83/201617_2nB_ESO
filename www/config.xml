@@ -2,22 +2,22 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.control_esp8266"
-        versionCode = "30" 
+        id          = "cat.numancia.SistemaSolar.pcj"
+        versionCode = "1" 
         version     = "0.0.30" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	
 
-   <name>Control ESP8266</name>
+   <name>Solar Royal</name>
 
    <description>
-       Test per control.lar un NodeMCU 8266
+       Sistema solar fet per Pol Chacon
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="pchacon.pe.hu" email="pchacon83@iesnumancia.cat">
+       Pol Chacón
     </author>
 
 	<content src="index.html"/>
